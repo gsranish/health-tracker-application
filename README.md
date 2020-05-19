@@ -1,2 +1,2 @@
 # health-tracker-application
-This Project includes sugar level tracking application.
+This java Project includes sugar level tracking application.
